@@ -362,6 +362,7 @@ const TableList: React.FC = () => {
                   fontWeight: 600,
                 }}
               >
+
                 {selectedRowsState.length}
               </a>{' '}
               项 &nbsp;&nbsp;
